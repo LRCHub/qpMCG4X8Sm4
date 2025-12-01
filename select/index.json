@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Voice",
+  "base_artist": "USU",
+  "createdAt": "2025-12-01T08:18:31.884553Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lend Me Your Voice",
+      "artist": "Belle",
+      "has_synced": true,
+      "path": "select/01_Lend_Me_Your_Voice_Belle.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One Voice",
+      "artist": "Billy Gilman",
+      "has_synced": false,
+      "path": "select/02_One_Voice_Billy_Gilman.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Voice (Album Version)",
+      "artist": "Billy Gilman",
+      "has_synced": true,
+      "path": "select/03_One_Voice_(Album_Version)_Billy_Gilman.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Southern Voice",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/04_Southern_Voice_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Southern Voice",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/05_Southern_Voice_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "黑色柳丁 (original voice recorder ideas)",
+      "artist": "陶喆",
+      "has_synced": false,
+      "path": "select/06_黑色柳丁_(original_voice_recorder_ideas)_陶喆.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "黑色柳丁(Black Tangerine)Driginal Voice Recorder Ideas)",
+      "artist": "陶喆",
+      "has_synced": false,
+      "path": "select/07_黑色柳丁(Black_Tangerine)Driginal_Voice_Recorder_Ideas)_陶喆.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Match the Name With the Voice",
+      "artist": "Busta Rhymes feat. Flipmode Squad",
+      "has_synced": true,
+      "path": "select/08_Match_the_Name_With_the_Voice_Busta_Rhymes_feat._Flipmode_Squad.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Match The Name With The Voice",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/09_Match_The_Name_With_The_Voice_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Double Voice, Extra Voice",
+      "artist": "Laetitia Sadier Source Ensemble",
+      "has_synced": false,
+      "path": "select/10_Double_Voice,_Extra_Voice_Laetitia_Sadier_Source_Ensemble.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Double Voice, Extra Voice",
+      "artist": "Lætitia Sadier Source Ensemble",
+      "has_synced": false,
+      "path": "select/11_Double_Voice,_Extra_Voice_Lætitia_Sadier_Source_Ensemble.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Poker Face (Piano & Voice Version) [Live]",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/12_Poker_Face_(Piano_&_Voice_Version)_[Live]_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Poker Face (Piano & Voice Version)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/13_Poker_Face_(Piano_&_Voice_Version)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Her Voice Is Beyond Her Years",
+      "artist": "MEW",
+      "has_synced": false,
+      "path": "select/14_Her_Voice_Is_Beyond_Her_Years_MEW.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "His Master's Voice",
+      "artist": "Monsters of Folk",
+      "has_synced": false,
+      "path": "select/15_His_Master's_Voice_Monsters_of_Folk.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Voice",
+      "artist": "The Moody Blues",
+      "has_synced": true,
+      "path": "select/16_The_Voice_The_Moody_Blues.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Voice In Headphones",
+      "artist": "Mount Eerie, Julie Doiron & Fred Squire",
+      "has_synced": false,
+      "path": "select/17_Voice_In_Headphones_Mount_Eerie,_Julie_Doiron_&_Fred_Squire.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "VOICE",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/pl_01_VOICE_Perfume.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "VOICELESS FEAR",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/pl_02_VOICELESS_FEAR_Perfume.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Voice",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/pl_03_Voice_Perfume.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Voice",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/pl_04_Voice_Perfume.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "VOICE",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/pl_05_VOICE_Perfume.txt"
+    }
+  ]
+}
